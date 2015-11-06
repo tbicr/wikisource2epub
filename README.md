@@ -8,4 +8,4 @@
 
 ## Usage
 
-    wikisource2epub https://be.wikisource.org/wiki/Адвечная_песьня_(Пецярбург_1910)
+    wikisource2epub https://be.wikisource.org/wiki/Адвечная_песьня_(Пецярбург_1910) > book.epub
