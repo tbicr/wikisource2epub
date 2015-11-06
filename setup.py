@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='wikispurce2epub',
+    name='wikisource2epub',
     version='0.0.1',
     description='wikisource to epub converter',
     author='Pavel Tyslacki',
@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
-    scripts=['wikispurce2epub.py'],
+    scripts=['wikisource2epub.py'],
     install_requires=open('requirements.txt').read().strip().splitlines(),
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
